@@ -14,7 +14,7 @@ __How will I know when you're grumpy?__
 
 __How can I help you when you're grumpy?__
 
-> Talking about something else is usually a good place to start.
+> Taking an action item to set something in motion that aims to improve or fix what I'm grumpy about.
 
 ## Feedback & Recognition
 
@@ -38,7 +38,7 @@ __What makes 1:1s the most valuable for you?__
 
 __What are your goals for this year? And for the next 3 months?__
 
-> This year I'm looking to settle into my role as an Engineering Manager. It's a new type of work so I'm confident there will be challenges and obstacles to overcome. Feeling _less unsure_ feels like a good 12 month goal. Over the next 3 I'm focusing on a smooth transition between managers for the team.
+> This year I'm looking to settle into my role as an Engineering Manager. It's a new type of work so I'm confident there will be challenges and obstacles to overcome. Feeling _less unsure_ feels like a good 12 month goal.
 
 __What do you need from your manager?__
 
