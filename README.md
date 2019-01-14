@@ -22,8 +22,10 @@ An initital 1:1 where I'll ask a series of questions. My answers to which [are h
 
 A weekly (unless otherwise stated) 1:1, in which I provide context from the greater org, share any feedback I have for you (especially as it relates to career progression), and help you work through problems you’re trying to solve.
 
-Routine sharing from me of the problems that I’m also facing in my current work, and concrete information about what I’m up to.
+Routine sharing from me of the problems that I’m also facing in my current work, and concrete information about what I’m up to. I could do better at this so please ask whenever you're curious!
 
-Asynchronous responses if I’m in meetings. You can expect from me a response as soon as possible, even if that’s to set an expectation with you about when to expect an in-depth response from me.
+Asynchronous responses if I’m in meetings. You can expect from me a response as soon as possible, even if that’s to set an expectation with you about when to expect an in-depth response from me. Your teammates are there to help as well if I'm unavailable.
+
+The occassional late night or weekend Slack message. This is me working and does not mean you're required to outside of your normal working hours, unless otherwise stated due to the nature of our work. I will, in addition, always do my best to try and indicate priority as clearly as possible.
 
 Encouraging and setting an example of a healthy work-life balance and avoiding burnout. I may from time to time ask for your help to make this possible!
