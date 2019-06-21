@@ -14,11 +14,11 @@ __How will I know when you're grumpy?__
 
 __How can I help you when you're grumpy?__
 
-> Taking an action item to set something in motion that aims to improve or fix what I'm grumpy about.
+> Similar to symptoms of _burn out_ it's likely if I'm grumpy about something it's due to a perceived lack of control around it. Taking an action item to set something in motion that aims to improve or fix what I'm grumpy about, even/especially if it's a task I'm responsible for, is a step in the right direction.
 
 ## Feedback & Recognition
 
-__How do you like feedback, the medium (IRC, email, in person, etc.)__
+__How do you like feedback, the medium (Slack, email, in person, etc.)__
 
 > Preferably in person for significant and/or career development related feedback. Slack is a great alternative for quick snippets. Use your best judgement.
 
@@ -38,7 +38,7 @@ __What makes 1:1s the most valuable for you?__
 
 __What are your goals for this year? And for the next 3 months?__
 
-> This year I'm looking to settle into my role as an Engineering Manager. It's a new type of work so I'm confident there will be challenges and obstacles to overcome. Feeling _less unsure_ feels like a good 12 month goal.
+> This year I'm working on looking further ahead on topics such as infrastructure roadmaps, team efficiency and throughput predictability, and growing a world-class SRE team.
 
 __What do you need from your manager?__
 
