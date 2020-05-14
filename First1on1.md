@@ -28,17 +28,17 @@ __How do you like feedback, routine like in 1:1s, or as-it-happens__
 
 __How do you prefer to receive recognition? (public or private)__
 
-> Public. It feels good. Private is good for reiterating specific points.
+> Public. It feels good. Private is better for constructive feedback.
 
 ## Goals and Support
 
 __What makes 1:1s the most valuable for you?__
 
-> Anything but status/project updates. There's plenty of other (should be) deliberate time for that. If there's nothing else to talk about, I'd prefer to have my time back for other things.
+> Anything but status/project updates. I enjoy talking through challenges we're both having as you should be able to help with mine and I can learn from yours.
 
 __What are your goals for this year? And for the next 3 months?__
 
-> This year I'm working on looking further ahead on topics such as infrastructure roadmaps, team efficiency and throughput predictability, and growing a world-class SRE team.
+> I'm working on looking further ahead on topics such as infrastructure roadmaps, team efficiency and throughput predictability, and growing a world-class SRE team.
 
 __What do you need from your manager?__
 
@@ -50,4 +50,4 @@ __From your team?__
 
 __From your peers? (outside the team)__
 
-> A network to lean on, similar to my manager, that isn't my manager.
+> A network to lean on and learn from.
