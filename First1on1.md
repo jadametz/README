@@ -14,7 +14,7 @@ __How will I know when you're grumpy?__
 
 __How can I help you when you're grumpy?__
 
-> Similar to symptoms of _burn out_ it's likely if I'm grumpy about something it's due to a perceived lack of control around it. Taking an action item to set something in motion that aims to improve or fix what I'm grumpy about, even/especially if it's a task I'm responsible for, is a step in the right direction.
+> Similar to symptoms of _burn out_ it's likely if I'm grumpy about something it's due to a perceived lack of control over it. Taking an action item to set something in motion that aims to improve or fix what I'm grumpy about, even/especially if it's a task I'm responsible for, is a step in the right direction.
 
 ## Feedback & Recognition
 
@@ -38,7 +38,7 @@ __What makes 1:1s the most valuable for you?__
 
 __What are your goals for this year? And for the next 3 months?__
 
-> I'm working on looking further ahead on topics such as infrastructure roadmaps, team efficiency and throughput predictability, and growing a world-class SRE team.
+> I'm working on looking further ahead on topics such as infrastructure/tooling roadmaps, team efficiency and throughput predictability, and growing world-class teams.
 
 __What do you need from your manager?__
 
